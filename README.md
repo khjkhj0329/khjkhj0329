@@ -1,6 +1,6 @@
 ### Hi there 👋   
 
-<aling="center"![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimHyoJung&show_icons=true&theme=cobalt)/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimHyoJung&show_icons=true&theme=cobalt)
 
 <h3 align="center"><b>🛠 Skills 🛠</b></h3>
 </br>
