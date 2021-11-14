@@ -17,7 +17,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khjkhj0329@gmail.com)](mailto:khjkhj0329@gmail.com)
 
 ## 😳 My achievements 😳
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khjkhj0329&&show_icons=true&theme=cobalt)
+
 
    
 
