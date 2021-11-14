@@ -1,3 +1,4 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=효정%20GitHub&fontSize=80)
 
 ### Hi there 👋   
@@ -19,6 +20,7 @@
 ## 😳 My achievements 😳
 ![khjkhj0329's GitHub stats](https://github-readme-stats.vercel.app/api?username=khjkhj0329&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khjkhj0329&layout=compact&theme=tokyonight)
+</div>
 
 
 
