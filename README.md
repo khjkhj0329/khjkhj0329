@@ -13,7 +13,7 @@
 </p>
 
 
-## 👧🏻 Its's Me 👧🏻
+## 👧🏻 It's Me 👧🏻
 <a href="https://www.instagram.com/hyojung_yi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khjkhj0329@gmail.com)](mailto:khjkhj0329@gmail.com)
 
