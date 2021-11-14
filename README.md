@@ -16,6 +16,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khjkhj0329@gmail.com)](mailto:khjkhj0329@gmail.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khjkhj0329&&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khjkhj0329&layout=compact$theme=cobalt)](https://github.com/khjkhj0329)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khjkhj0329&layout=compact$theme=dracula)](https://github.com/khjkhj0329)
    
 
