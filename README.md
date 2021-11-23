@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=효정%20GitHub&fontSize=80)
 
-<h1>### Hi there 👋</h1>
+<h1>## Hi there 👋</h1>
 
 ## 🛠 My Skills 🛠
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
